@@ -1,10 +1,3 @@
-//menu driven application
-//check if number is odd or even
-//check pos or neg
-//find greatest of three
-//sum of digits
-//exit the program
-
 #include<stdio.h>
 
 int oddeven(int n){
